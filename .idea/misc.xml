@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApp_V2/app/src/main/res/layout/info_form.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApp_V2/app/src/main/res/layout/new_image.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApp_V2/app/src/main/res/menu/mymenu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.290625" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/drawable/ic_add_person.xml" value="0.290625" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.10740740740740741" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/drawable/ic_call.xml" value="0.290625" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/drawable/ic_cancel.xml" value="0.290625" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/drawable/ic_delete.xml" value="0.290625" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/drawable/ic_edit.xml" value="0.290625" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.290625" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/drawable/ic_mail.xml" value="0.290625" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/drawable/ic_ok.xml" value="0.290625" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/drawable/ic_person.xml" value="0.10740740740740741" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/drawable/ic_save.xml" value="0.290625" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/layout/activity_edit_delete_item.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/layout/activity_info_item.xml" value="0.264" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/layout/contact_item.xml" value="0.264" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/layout/edit_delete_item.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/layout/info_form.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/menu/menu_setting.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/ContactApplication/app/src/main/res/menu/mymenu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/TestImage/app/src/main/res/drawable/circle.xml" value="0.203125" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/TestImage/app/src/main/res/drawable/ic_person.xml" value="0.203125" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/TestImage/app/src/main/res/drawable/ic_save.xml" value="0.290625" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/TestImage/app/src/main/res/drawable/img.xml" value="0.203125" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/TestImage/app/src/main/res/layout/activity_info_item.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/TestImage/app/src/main/res/layout/activity_main.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/TestImage/app/src/main/res/layout/choose_image.xml" value="0.264" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/TestImage/app/src/main/res/layout/contact_item.xml" value="0.14583333333333334" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/TestImage/app/src/main/res/layout/info_form.xml" value="0.4" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/TestImage/app/src/main/res/layout/new_image.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/TestImage/app/src/main/res/menu/mymenu.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/TestImage/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1609375" />
+        <entry key="..\:/Users/Xuan vinh/AndroidStudioProjects/TestImage/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1609375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
